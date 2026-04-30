@@ -9,5 +9,5 @@ __all__ = [
     'Question',
     'Statistic',
     'Response',
-    'Category',
+    'Category', 'db'
 ]
